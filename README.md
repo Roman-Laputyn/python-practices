@@ -1,4 +1,5 @@
-## Useful web-platforms for practice:
+## Useful web-platforms for practice
+- https://www.anaconda.com
 - https://datacamp.com
 - https://colab.research.google.com
 - https://www.freecodecamp.org
