@@ -1,4 +1,3 @@
-# Python-practices
 ## Useful web-platforms for practice:
 - https://datacamp.com
 - https://colab.research.google.com
